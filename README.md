@@ -42,15 +42,7 @@ I am web developer . I made responsive websites like Portfolio , Muzical ,Acoder
 </div>
 
 
-## My Websites :
 
-<a href="https://footballloverz.netlify.app/">
-  <img src="https://jst-my-resources.danishiqbal13.repl.co/Football%20Loverz.png" />
-</a>
-
-<a href="https://danfolio1.netlify.app/">
-  <img src="https://jst-my-resources.danishiqbal13.repl.co/Danfolio.png" />
-</a>
 
 
 ## 📫 Contact me on :
