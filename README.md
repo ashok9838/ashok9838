@@ -6,7 +6,7 @@
 
 ## know about me:
 
-I am web developer . I made responsive websites like Portfolio , Muzical ,Acoders.  
+I am web developer . I have made several responsive websites like Portfolio , Muzical ,Acoders etc. Just wanna explore new things.❤️‍🔥  
 
 
 ## My Skills :
